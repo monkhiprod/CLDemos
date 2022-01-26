@@ -9,7 +9,7 @@ for (char a = 'A'; a <= 'Z'; a++)
     alphabet += a;
 }
 
-Console.WriteLine($"{alphabet}\n");
+Console.WriteLine($"\n{alphabet}\n");
 
 Console.WriteLine("Press any key to continue for Reverse Alphabet\n");
 Console.ReadLine();
