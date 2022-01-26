@@ -1,0 +1,15 @@
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.csproj.AssemblyReference.cache
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.AssemblyInfoInputs.cache
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.AssemblyInfo.cs
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.csproj.CoreCompileInputs.cache
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\AlphabetDemo.exe
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\AlphabetDemo.deps.json
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\AlphabetDemo.runtimeconfig.json
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\AlphabetDemo.dll
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\ref\AlphabetDemo.dll
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\bin\Debug\net6.0\AlphabetDemo.pdb
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.dll
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\ref\AlphabetDemo.dll
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.pdb
+C:\Users\johns\Desktop\Coding\CodeLouisvilleDemos\AlphabetDemo\AlphabetDemo\AlphabetDemo\obj\Debug\net6.0\AlphabetDemo.genruntimeconfig.cache
