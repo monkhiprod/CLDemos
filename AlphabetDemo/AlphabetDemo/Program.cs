@@ -4,20 +4,31 @@
     {
         static void Main()
         {
-            Console.WriteLine("Press any key to continue for Regular Alphabet\n");
+            Console.WriteLine("Press the ENTER key to continue for Regular Alphabet\n");
             Console.ReadLine();
+            RegularAlphabet();
+           
+            Console.WriteLine("Press the ENTER key to continue for Reverse Alphabet\n");
+            Console.ReadLine();
+            ReverseAlphabet();
+            
+            Console.WriteLine("Press the ENTER key to continue for Skipped Alphabet\n");
+            Console.ReadLine();
+            SkippedAlphabet();
+        }
 
+        static void RegularAlphabet()
+        {
             string alphabet = "";
             for (char a = 'A'; a <= 'Z'; a++)
             {
                 alphabet += a;
             }
+            Console.WriteLine($"{alphabet}\n");
+        }
 
-            Console.WriteLine($"\n{alphabet}\n");
-
-            Console.WriteLine("Press any key to continue for Reverse Alphabet\n");
-            Console.ReadLine();
-
+        static void ReverseAlphabet()
+        {
             string reversed = "";
             for (char r = 'Z'; r >= 'A'; r--)
             {
@@ -25,11 +36,10 @@
             }
 
             Console.WriteLine($"{reversed}\n");
-            Console.ReadLine();
+        }
 
-            Console.WriteLine("Press any key to continue for Skipped Alphabet\n");
-            Console.ReadLine();
-
+        static void SkippedAlphabet()
+        {
             string skip = "";
             for (char s = 'A'; s <= 'Z'; s++, s++)
             {
@@ -37,7 +47,6 @@
             }
 
             Console.WriteLine($"{skip}\n");
-            Console.ReadLine();
         }
     }
 }
